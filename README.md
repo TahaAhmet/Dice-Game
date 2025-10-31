@@ -63,8 +63,8 @@ Dicee/
 2. Navigate to the project folder:
 
    ```bash
-   cd dicee-game
+   cd dice-game
    ```
 
-3. Open `dice.html` in your browser.
+3. Open `index.html` in your browser.
 
