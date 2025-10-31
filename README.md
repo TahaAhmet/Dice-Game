@@ -1,7 +1,7 @@
 # 🎲 Dice Game
 
 Dice is a simple and fun web game where two players roll dice to see who wins.  
-**Live Demo:** [Dice Game on GitHub Pages](https://TahaAhmet.github.io/dice-game/)  
+**Live Demo:** [Dice Game on GitHub Pages](https://tahaahmet.github.io/Dice-Game/))  
 The project is built with **HTML**, **CSS**, and **JavaScript**, featuring smooth dice animations, gradient backgrounds, and a fully responsive layout.
 
 ---
@@ -57,7 +57,7 @@ Dicee/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/TahaAhmet/dice-game.git
+   git clone https://github.com/TahaAhmet/Dice-Game.git
    ```
 
 2. Navigate to the project folder:
